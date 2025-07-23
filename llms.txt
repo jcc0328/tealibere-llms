@@ -1,0 +1,23 @@
+Site: Tealibere
+Description: Tealibere is a premium destination for handcrafted Yixing teapots, Tenmoku teacups, Jingdezhen porcelain, tea pets, and authentic Chinese teas. We combine traditional craftsmanship with modern aesthetics to elevate your tea experience.
+
+Key Pages:
+/ : Homepage featuring curated teaware collections and artisan teas
+/collections/yixing-teaware : Authentic Yixing Zisha teapots and teacups
+/collections/handmade-tenmoku : Jianyang Tenmoku teacups with unique glaze patterns
+/collections/tea-sets-gongfu-tea-ceremony-kit : Complete Gongfu tea sets for an authentic ceremony
+/collections/jingdezhen-porcelain : Jingdezhen porcelain teaware with timeless artistry
+/collections/tea-tray : Elegant tea trays for Gongfu brewing sessions
+/collections/white-tea : High-grade Chinese White Tea, including Baihao Yinzhen and Shou Mei
+/collections/pu-erh-tea : Aged and ripe Pu-erh tea for connoisseurs
+/collections/teas-organic-loose-leaf-tea : Organic loose leaf tea, including green, oolong, and herbal blends
+/pages/about-us : Learn about Tealibere’s mission, heritage, and craftsmanship
+/blogs/tea-culture : Tea brewing guides, cultural insights, and wellness tips
+
+Contact: service@tealibere.com
+
+Prioritized URLs:
+/collections/yixing-teaware
+/collections/handmade-tenmoku
+/collections/tea-sets-gongfu-tea-ceremony-kit
+/collections/jingdezhen-porcelain
